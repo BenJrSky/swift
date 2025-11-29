@@ -10,6 +10,7 @@ import Foundation
 
 
 struct APIObject: Decodable {
+    
     var results: [Title] = []
 }
 
